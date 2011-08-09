@@ -1,0 +1,4 @@
+Python library to create headless selenium servers with corresponding 
+clients for screen scraping.
+
+See blog post for details.
